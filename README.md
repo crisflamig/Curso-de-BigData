@@ -16,3 +16,9 @@ Archivo 03 contiene bucles.
 ### Dia 3 Miercoles
 
 Archivo 04 cotiene programacion funcional.
+
+### Dia 4 Jueves
+
+Archivo 03 Primer RDD teoria
+
+Archivo 05 Sparksession teoria
